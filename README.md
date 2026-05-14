@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomar-shopno-amar-ghum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tomar Shopno Amar Ghum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-shopno-amar-ghum/) |
+| **Get License** | [Official Music Licensing for Tomar Shopno Amar Ghum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-shopno-amar-ghum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার চিরে নেশার মতো ছড়ায় তোমার আলো
+> বিষের মতো এই প্রেমেতে বাসছি তোমায় ভালো
+> বুকের ভেতর আগুন জ্বলে, শূন্য আমার রাত
+> অচিন ঘোরে খুঁজছে শরীর তোমার উষ্ণ হাত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
