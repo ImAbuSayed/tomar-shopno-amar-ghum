@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tomar-shopno-amar-ghum/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tomar Shopno Amar Ghum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-shopno-amar-ghum/) |
+| **Get License** | [Request Licensing for Tomar Shopno Amar Ghum](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tomar-shopno-amar-ghum/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1b3fbc00a7242b1fea8f929ba45adab133503051dfd800ff21c9a1bd7da5a2dd` |
 | **Timestamp** | May 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
